@@ -4,9 +4,9 @@ You'll find the source files for seoulchristian.org hosted in the gh-pages branc
 
 ## Todo
 
-[x] Bootstrap core
-[x] Temporary hosting for development
-[ ] Solve carousel image sizing (compressing instead of cropping)
-[ ] Sitemap
-[ ] Branding
-[ ] Faculty information
+- [x] Bootstrap core
+- [x] Temporary hosting for development
+- [ ] Solve carousel image sizing (compressing instead of cropping)
+- [ ] Sitemap
+- [ ] Branding
+- [ ] Faculty information
