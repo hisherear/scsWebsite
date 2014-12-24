@@ -6,17 +6,9 @@ You'll find the source files for seoulchristian.org hosted in the gh-pages branc
 
 - [x] Bootstrap core
 - [x] Temporary hosting for development
-- [x] Solve carousel image sizing (compressing instead of cropping)
-- [ ] Sitemap (in progress)
-- [ ] Branding
-- [ ] Pages needed
-  - [ ] Upcoming events
-  - [ ] Admissions
-  - [ ] Student Resources
-  - [ ] Parent Resources
-  - [ ] Serve with Us
-- [ ] Faculty bios
-- [ ] Social media integration
-  - [ ] Facebook
-  - [ ] Twitter
-  - [ ] YouTube
+- [ ] Solve carousel image sizing #1
+- [ ] Sitemap #5
+- [ ] Branding #3
+- [ ] Complete secondary pages #2
+- [ ] Faculty bios #6
+- [ ] Social media integration #4
