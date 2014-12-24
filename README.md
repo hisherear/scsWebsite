@@ -6,9 +6,9 @@ You'll find the source files for seoulchristian.org hosted in the gh-pages branc
 
 - [x] Bootstrap core
 - [x] Temporary hosting for development
-- [ ] Solve carousel image sizing #1
-- [ ] Sitemap #5
-- [ ] Branding #3
-- [ ] Complete secondary pages #2
-- [ ] Faculty bios #6
-- [ ] Social media integration #4
+- [ ] Solve carousel image sizing [#1](/../../issues/1)
+- [ ] Sitemap [#5](/../../issues/5)
+- [ ] Branding [#3](/../../issues/3)
+- [ ] Complete secondary pages [#2](/../../issues/2)
+- [ ] Faculty bios [#6](/../../issues/6)
+- [ ] Social media integration [#4](/../../issues/4)
