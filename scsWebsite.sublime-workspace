@@ -7,15 +7,35 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 8405,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "admissions.html",
+			"settings":
+			{
+				"buffer_size": 12175,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 0.0,
+		"height": 67.0,
 		"selected_items":
 		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
 		],
-		"width": 0.0
+		"width": 575.0
 	},
 	"console":
 	{
@@ -40,6 +60,8 @@
 	],
 	"file_history":
 	[
+		"/Users/john/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/john/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
 	],
 	"find":
 	{
@@ -74,8 +96,69 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3846,
+								3846
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 566.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "admissions.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3759,
+								3759
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 938.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
