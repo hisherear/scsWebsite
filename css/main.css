@@ -16,12 +16,18 @@
 }
 
 #phoneNumber {
-  margin-right: 1em;
+	margin-right: 1em;
+}
+
+@media only screen and (max-width: 1026px) {
+	#crumbs {
+		display:none;
+	}
 }
 
 #crumbs {
 	text-align: center;
-  margin: 2em 0 1em 0;
+	margin: 2em 0 1em 0;
 }
 
 	#crumbs ul {
