@@ -91,7 +91,12 @@
 					border-left-color: #fa5ba5;
 				}
 
- #welcomeVideo {
-	 width:100%;
-	 margin-bottom: 1em;
- }
+#welcomeVideo {
+ width:100%;
+ margin-bottom: 1em;
+}
+
+
+.instafeed {
+  margin-bottom: 1em;
+}
